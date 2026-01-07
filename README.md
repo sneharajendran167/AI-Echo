@@ -74,13 +74,19 @@ Streamlit
 **🔄 Project Workflow**
 
 1️⃣ Data Loading
+
 2️⃣ Data Cleaning & Text Preprocessing
+
 3️⃣ Exploratory Data Analysis (EDA)
+
 4️⃣ Feature Extraction using TF-IDF
-5️⃣ Model Building (Logistic Regression)
+
+5️⃣ Model Building
+
 6️⃣ Model Evaluation
-7️⃣ Feature Importance & Insights
-8️⃣ Streamlit Dashboard Deployment
+
+7️⃣ Streamlit Dashboard Deployment
+
 
 **🤖 Model Description**
 
