@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b233644e-23ee-480c-8857-5dea1fa7d410" />**🧠 AI Echo – Sentiment Analysis Project**
+**🧠 AI Echo – Sentiment Analysis Project**
 
 AI Echo – Your Smartest Conversational Partner
 
