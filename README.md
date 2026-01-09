@@ -180,7 +180,8 @@ streamlit run aiecho.py
 
 **Screenshots**
 
-<img width="1920" height="1080" alt="Aiecho" src="https://github.com/user-attachments/assets/0575788d-1a1a-4b81-9340-89d805ea3219" />
+<img width="1920" height="1080" alt="aiecho1" src="https://github.com/user-attachments/assets/c565ffba-62f6-4b51-9392-741ef2f05b52" />
+
 
 
 **📁 Project Files**
