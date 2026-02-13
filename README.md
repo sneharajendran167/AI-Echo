@@ -179,8 +179,11 @@ Run the Streamlit app
 streamlit run aiecho.py
 
 **Screenshots**
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/c851cfe2-f41d-454e-a9f9-1132083aa884" />
 
-<img width="1920" height="1080" alt="aiecho1" src="https://github.com/user-attachments/assets/c565ffba-62f6-4b51-9392-741ef2f05b52" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/af51e537-11d7-475e-8667-17c31b48ef6d" />
+
+<img width="1919" height="1009" alt="Screenshot 2026-02-13 174747" src="https://github.com/user-attachments/assets/1633177b-321c-43ff-8960-355da4fe2e55" />
 
 
 
