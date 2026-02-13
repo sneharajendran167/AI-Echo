@@ -112,15 +112,6 @@ Used for performance comparison
 
 👉 Logistic Regression was selected as the final model due to its interpretability and comparable performance.
 
-**📊 Model Evaluation**
-
-Accuracy: 100%
-
-Precision, Recall, F1-Score: 1.00
-
-Confusion Matrix: No misclassifications
-
-Note: High accuracy is influenced by the strong correlation between user ratings and review text.
 
 **🔍 Feature Importance & Key Insights**
 Positive Sentiment:
