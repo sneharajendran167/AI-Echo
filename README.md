@@ -25,7 +25,7 @@ Deploy results using a Streamlit dashboard
 
 **🗂️ Dataset Details**
 
-Dataset Name: AI Echo.csv
+Dataset Name: givendata.csv
 
 Description: User reviews and ratings data
 
@@ -167,24 +167,27 @@ Install required libraries
 pip install streamlit pandas scikit-learn matplotlib seaborn
 
 Run the Streamlit app
-streamlit run aiecho.py
+streamlit run main.py
 
 **Screenshots**
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/c851cfe2-f41d-454e-a9f9-1132083aa884" />
 
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/af51e537-11d7-475e-8667-17c31b48ef6d" />
 
-<img width="1919" height="1009" alt="Screenshot 2026-02-13 174747" src="https://github.com/user-attachments/assets/1633177b-321c-43ff-8960-355da4fe2e55" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/9876b6d5-4011-4549-9b42-a5cad4a7cb43" />
 
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/b6de1211-9440-4244-85fa-edeed2f967ec" />
+
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/c19659a6-e569-47c7-aa20-5f7ebc93b661" />
 
 
 **📁 Project Files**
 
-aiecho.ipynb – Data analysis, model building, and evaluation
+givendata.ipynb, newdata.ipynb – Data analysis, model building, and evaluation
 
-aiecho.py – Streamlit dashboard application
+main.py – Streamlit dashboard application
 
-AI Echo.csv – Dataset
+givendata.csv,newdata.csv – Dataset
 
 README.md – Project documentation
 
